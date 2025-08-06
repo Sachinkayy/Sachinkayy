@@ -95,6 +95,9 @@
   <img src="https://img.shields.io/badge/Excel-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-blue?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-blue?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+
 </p>
 
 <h4> Spoken Languages </h4>
